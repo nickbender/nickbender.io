@@ -15,7 +15,7 @@ const IndexPage = () => (
     <p>
       Lately, my team is building better ways for people to create and share video
       at <a href='https://wistia.com'>Wistia</a>. 
-      I've also worked at <a href='https://huckleberry.com'>Huckleberry</a>, <a href='https://my.life'>MyLife</a>,
+      I've also worked at <a href='https://huckleberry.com'>Huckleberry</a>, <a href='https://my.life'>MyLife</a>, 
       <a href='https://ibm.com'>IBM</a>, <a href='https://a10networks.com'>A10 Networks</a>, and Uceem.</p>
     <p>
       <a href='https://www.ruby-lang.org/en/'>Ruby</a> and <a href='https://developer.mozilla.org/en-US/docs/Web/javascript'>js</a> are where 
